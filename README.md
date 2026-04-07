@@ -1,6 +1,6 @@
 # Course Project Submissions – Spring 2026
 
-## Course: [Write course name here]
+## Course: CSC 432 Computer and Netwroks Security Projects
 
 ## Instructions for Students
 
